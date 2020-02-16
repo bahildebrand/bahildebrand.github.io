@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: C/C++, Python, Firmware, Javascript, PCB Design, Git
+percentage: 100, 80, 90, 60, 50, 90
