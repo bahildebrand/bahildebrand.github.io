@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Blake Hildebrand
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["engineering", "firmware", "hardware"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Blake Hildebrand
-  avatar: leonids-logo.png
+  avatar: blog_picture.jpg
   job: "Software Engineer"
   bio: "A blog about engineering and other stuff."
   email:
