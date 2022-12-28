@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://bahildebrand.github.io/"
 languageCode = "en-us"
 paginate = 5
 
